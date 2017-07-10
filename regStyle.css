@@ -1,0 +1,52 @@
+body{
+    background-image:url("reg.jpg");
+} 
+
+.textbox {
+    background: #333;
+    color: #ccc;
+    width: 250px;
+    padding: 6px 15px 6px 35px;
+    border-radius: 20px;
+    box-shadow: 0 1px 0 #ccc inset;
+    transition: 500ms all ease;
+    outline: 0;
+    height:20px;
+   
+    
+}
+ .textbox:hover {
+    width: 300px;
+}
+
+.animate
+{
+	transition: all 0.1s;
+	-webkit-transition: all 0.1s;
+}
+
+.action-button
+{
+	position: relative;
+	padding: 10px 40px;
+  margin: 0px 10px 10px 0px;
+  float: left;
+	border-radius: 10px;
+	color: #FFF;
+	text-decoration: none;	
+}
+
+.color
+{
+	background-color: rgb(178, 0, 255);
+	border-bottom: 5px solid #2980B9;
+	text-shadow: 0px -2px #2980B9;
+}
+
+
+.action-button:active
+{
+	transform: translate(0px,5px);
+  -webkit-transform: translate(0px,5px);
+	border-bottom: 1px solid;
+}

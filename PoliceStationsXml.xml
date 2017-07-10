@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<POLICESTATION>
+<ZONE>
+<TITLE>Adabor Police Station</TITLE>
+<ADDRESS>House#105/A, Ring road, Shamoli, Dhaka.</ADDRESS>
+<HOTLINE>+88-02-9133265</HOTLINE>
+</ZONE>
+<ZONE>
+<TITLE>Amberkhana Police Station</TITLE>
+<ADDRESS>Mojomdari Airport Rd 3100, Sylhet</ADDRESS>
+<HOTLINE>+88-061-152410</HOTLINE>
+</ZONE>
+  
+<ZONE>
+<TITLE>Badda Police Station</TITLE>
+<ADDRESS>H-12/A, R-17, DIT Project, Marul Badda, Dhaka.</ADDRESS>
+<HOTLINE>+88-02-9882625</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Bagha Police Station</TITLE>
+<ADDRESS>Bagha - Puthia Rd, Bagha, Bangladesh</ADDRESS>
+<HOTLINE>+88-041-685043</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Bakalia Police Station</TITLE>
+<ADDRESS>Shah Amanat Bridge Rd,Chittagong</ADDRESS>
+<HOTLINE>+88-031-616346</HOTLINE>
+</ZONE>
+<ZONE>
+<TITLE>Banani Police Station</TITLE>
+<ADDRESS>R-7, H-37, Banani, Dhaka</ADDRESS>
+<HOTLINE>+88-02-9894032</HOTLINE>
+</ZONE>
+<ZONE>
+<TITLE>Bayazid Bostamy Police Station</TITLE>
+<ADDRESS>Bayazid Bostamy Rd,Chittagong</ADDRESS>
+<HOTLINE>+88-031-683033</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Chalkbazar Police Station</TITLE>
+<ADDRESS>Bakshi Bazer Road, Dhaka.</ADDRESS>
+<HOTLINE>+88-02-7313966</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Chawkbazar Police Station</TITLE>
+<ADDRESS>Sadar Hospital Rd,Chawkbazar Bustand,Chittagong</ADDRESS>
+<HOTLINE>+88-031-631414</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Daulatpur Police Fari</TITLE>
+<ADDRESS>B.L. College Rd, Khulna</ADDRESS>
+<HOTLINE>+88-051-769100</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Demra Police Station</TITLE>
+<ADDRESS>Bowani Jute Mills, Demra, Dhaka.</ADDRESS>
+<HOTLINE>+88-02-7501155</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Gollamari Police Box</TITLE>
+<ADDRESS>Gollamari,Khulna</ADDRESS>
+<HOTLINE>+88-051-231456</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Gorhanga Police Station</TITLE>
+<ADDRESS>Kenny Rogers</ADDRESS>
+<HOTLINE>+88-041-312443</HOTLINE>
+
+</ZONE>
+
+
+<ZONE>
+<TITLE>Sylhet Railway Police Station</TITLE>
+<ADDRESS>Railway station,Sylhet</ADDRESS>
+<HOTLINE>+88-061-265198</HOTLINE>
+</ZONE>
+<ZONE>
+<TITLE>Sylhet Police Line</TITLE>
+<ADDRESS>Medical College Rd, Sylhet</ADDRESS>
+<HOTLINE>+88-061-323231</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>South Surma Police Station</TITLE>
+<ADDRESS>Sylhet City Bypass, Sylhet</ADDRESS>
+<HOTLINE>+88-061-152771</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Sonadanga Model Thana</TITLE>
+<ADDRESS>Majid Sarani, Khulna</ADDRESS>
+<HOTLINE>+88-051-323231</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Shahmokhdum Police Station</TITLE>
+<ADDRESS>Paba Para Road, Rajshahi, Bangladesh</ADDRESS>
+<HOTLINE>+88-041-325870</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Sadarghat Police Station</TITLE>
+<ADDRESS>Chittagong Railway Station,Chittagong</ADDRESS>
+<HOTLINE>+88-031-631414</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Railway Police Station</TITLE>
+<ADDRESS>Railway Station,Rajshahi</ADDRESS>
+<HOTLINE>+88-041-625980</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Phultala Police Station</TITLE>
+<ADDRESS>Dhaka-Khulna Highway, Phultala,Khulna</ADDRESS>
+<HOTLINE>+88-051-762356</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Panchlaish Police Station</TITLE>
+<ADDRESS>O.R. Nizam Rd,Chittagong</ADDRESS>
+<HOTLINE>+88-031-652797</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>New Market Police Station</TITLE>
+<ADDRESS>Nilkhet Katabon Road, Dhaka.</ADDRESS>
+<HOTLINE>+88-02-8631942</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Motihar Police Station</TITLE>
+<ADDRESS>Rajshahi University Rd,Rajshahi</ADDRESS>
+<HOTLINE>+88-041-198634</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Mirzapur Police Fari</TITLE>
+<ADDRESS>House # 507, Shaheed Sadhu Smrity Rd, Rajshahi</ADDRESS>
+<HOTLINE>+88-041-156349</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Mirpur Model Police Station</TITLE>
+<ADDRESS>Mirpur-2, Dhaka.</ADDRESS>
+<HOTLINE>+88-02-9001001</HOTLINE>
+</ZONE>
+<ZONE>
+<TITLE>Lamabazar Police Fari</TITLE>
+<ADDRESS>Lamabazar Rd, Sylhet</ADDRESS>
+<HOTLINE>+88-061-709291</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Kotwali Police Station</TITLE>
+<ADDRESS>Mohim Das Rd,Chittagong</ADDRESS>
+<HOTLINE>+88-031-619922</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Khulna Sadar Police Station</TITLE>
+<ADDRESS>K.D. Ghos Rd, Khulna</ADDRESS>
+<HOTLINE>+88-051-323413</HOTLINE>
+
+</ZONE>
+<ZONE>
+<TITLE>Khanjahan Ali Police Station</TITLE>
+<ADDRESS>Gaffar Food Rood, Khulna</ADDRESS>
+<HOTLINE>+88-051-165232</HOTLINE>
+
+</ZONE>
+
+<ZONE>
+<TITLE>Gulshan Police Station</TITLE>
+<ADDRESS>H-32, 115 Gulshan Avenue, Gulshan-2, Dhaka.</ADDRESS>
+<HOTLINE>+88-02-9895826</HOTLINE>
+</ZONE>
+
+</POLICESTATION>
